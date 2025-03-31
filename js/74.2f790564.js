@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkaudio_vue3"]=self["webpackChunkaudio_vue3"]||[]).push([[74],{74:function(e,u,a){a.r(u),a.d(u,{default:function(){return s}});var n=a(438),l=(a(422),a(848),a(641));const r={class:"page"};function t(e,u,a,t,o,c){const d=n.B8;return(0,l.uX)(),(0,l.CE)("div",r,[u[1]||(u[1]=(0,l.Lk)("h1",null,"Score Page",-1)),(0,l.bF)(d,{modelValue:o.value,"onUpdate:modelValue":u[0]||(u[0]=e=>o.value=e)},null,8,["modelValue"])])}var o={data(){return{value:50}}},c=a(262);const d=(0,c.A)(o,[["render",t]]);var s=d}}]);
+//# sourceMappingURL=74.2f790564.js.map
