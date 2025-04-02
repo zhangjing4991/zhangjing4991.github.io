@@ -1,0 +1,65 @@
+[
+    {
+        "name": "step1",
+        "audios": [
+            {
+                "name": "reference",
+                "url": "/audios/step1/reference.wav"
+            },
+            {
+                "name": "audio1",
+                "url": "/audios/step1/1.wav"
+            },
+            {
+                "name": "audio2",
+                "url": "/audios/step1/2.wav"
+            },
+            {
+                "name": "audio3",
+                "url": "/audios/step1/3.wav"
+            }
+        ]
+    },
+    {
+        "name": "step2",
+        "audios": [
+            {
+                "name": "reference",
+                "url": "/audios/step2/reference.wav"
+            },
+            {
+                "name": "audio1",
+                "url": "/audios/step2/1.wav"
+            },
+            {
+                "name": "audio2",
+                "url": "/audios/step2/2.wav"
+            },
+            {
+                "name": "audio3",
+                "url": "/audios/step2/3.wav"
+            }
+        ]
+    },
+    {
+        "name": "step3",
+        "audios": [
+            {
+                "name": "reference",
+                "url": "/audios/step3/reference.wav"
+            },
+            {
+                "name": "audio1",
+                "url": "/audios/step3/1.wav"
+            },
+            {
+                "name": "audio2",
+                "url": "/audios/step3/2.wav"
+            },
+            {
+                "name": "audio3",
+                "url": "/audios/step3/3.wav"
+            }
+        ]
+    }
+]

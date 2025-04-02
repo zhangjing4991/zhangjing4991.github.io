@@ -1,0 +1,44 @@
+{
+    "title": "知识测试问卷",
+    "pages": [
+      {
+        "questions": [
+          {
+            "id": 1,
+            "text": "Vue.js 的创建者是谁？",
+            "options": [
+              {"value": "A", "label": "尤雨溪"},
+              {"value": "B", "label": "Dan Abramov"},
+              {"value": "C", "label": "Evan You"}
+            ],
+            "correct": "C"
+          },
+          {
+            "id": 2,
+            "text": "Element Plus 是为哪个版本设计的？",
+            "options": [
+              {"value": "A", "label": "Vue 2"},
+              {"value": "B", "label": "Vue 3"},
+              {"value": "C", "label": "React"}
+            ],
+            "correct": "B"
+          }
+        ]
+      },
+      {
+        "questions": [
+          {
+            "id": 3,
+            "text": "下列哪个不是 Vue 3 新特性？",
+            "options": [
+              {"value": "A", "label": "Composition API"},
+              {"value": "B", "label": "Options API"},
+              {"value": "C", "label": "Teleport"}
+            ],
+            "correct": "B"
+          }
+        ]
+      }
+    ],
+    "email": "your-email@example.com"
+  }
